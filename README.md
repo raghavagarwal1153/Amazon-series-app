@@ -26,5 +26,5 @@ return(
 )}
 export default App
 ```
-![image](Screenshot(99).png)
+![image](nitin.jpg)
 
